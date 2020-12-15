@@ -1,0 +1,21 @@
+{
+  "name": "jswordgame",
+  "version": "1.0.0",
+  "description": "word game ",
+  "main": "./app.js",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "table": "^6.0.4"
+  }
+}
